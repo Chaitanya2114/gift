@@ -1,2 +1,6 @@
 this is frist git file
+<<<<<<< HEAD
 this is done by dev2
+=======
+this is second commit
+>>>>>>> origin/master
